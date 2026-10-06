@@ -87,13 +87,13 @@
     <None Include="Resources\R.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\7874b0243663287a3c56bca05a1d395d.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\TIM-Symbole.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\claro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i312994.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

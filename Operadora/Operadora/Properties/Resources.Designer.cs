@@ -73,9 +73,9 @@ namespace Operadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _7874b0243663287a3c56bca05a1d395d {
+        internal static System.Drawing.Bitmap claro {
             get {
-                object obj = ResourceManager.GetObject("_7874b0243663287a3c56bca05a1d395d", resourceCulture);
+                object obj = ResourceManager.GetObject("claro", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Operadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap claro {
+        internal static System.Drawing.Bitmap i312994 {
             get {
-                object obj = ResourceManager.GetObject("claro", resourceCulture);
+                object obj = ResourceManager.GetObject("i312994", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
