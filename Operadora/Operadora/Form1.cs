@@ -103,6 +103,22 @@ namespace Operadora
             btn_RS6.FlatAppearance.BorderColor = Color.Violet;
             btn_RS7.FlatAppearance.BorderColor = Color.Violet;
             btn_RS8.FlatAppearance.BorderColor = Color.Violet;
+            //Cor do Texto
+            lbl_Nome.ForeColor = Color.White;
+            lbl_BemVindo.ForeColor = Color.White;
+            lbl_OperadoraSelecionada.ForeColor = Color.White;
+            lbl_DDD.ForeColor = Color.White;
+            lbl_NumeroCelular.ForeColor = Color.White;
+            lbl_ValorRecarga.ForeColor = Color.White;
+            lbl_Validade1.ForeColor = Color.White;
+            lbl_Validade2.ForeColor = Color.White;
+            lbl_Validade3.ForeColor = Color.White;
+            lbl_Validade4.ForeColor = Color.White;
+            lbl_Validade5.ForeColor = Color.White;
+            lbl_Validade6.ForeColor = Color.White;
+            lbl_Validade7.ForeColor = Color.White;
+            lbl_Validade8.ForeColor = Color.White;
+            lbl_SelecioneValor.ForeColor = Color.White;
         }
 
         private void pcb_image_Click(object sender, EventArgs e)
@@ -203,7 +219,22 @@ namespace Operadora
             btn_RS6.FlatAppearance.BorderColor = Color.Gold;
             btn_RS7.FlatAppearance.BorderColor = Color.Gold;
             btn_RS8.FlatAppearance.BorderColor = Color.Gold;
-
+            //Cor do Texto
+            lbl_Nome.ForeColor = Color.White;
+            lbl_BemVindo.ForeColor = Color.White;
+            lbl_OperadoraSelecionada.ForeColor = Color.White;
+            lbl_DDD.ForeColor = Color.White;
+            lbl_NumeroCelular.ForeColor = Color.White;
+            lbl_ValorRecarga.ForeColor = Color.White;
+            lbl_SelecioneValor.ForeColor = Color.White;
+            lbl_Validade1.ForeColor = Color.White;
+            lbl_Validade2.ForeColor = Color.White;
+            lbl_Validade3.ForeColor = Color.White;
+            lbl_Validade4.ForeColor = Color.White;
+            lbl_Validade5.ForeColor = Color.White;
+            lbl_Validade6.ForeColor = Color.White;
+            lbl_Validade7.ForeColor = Color.White;
+            lbl_Validade8.ForeColor = Color.White;
         }
 
         private void btn_Claro_CheckedChanged(object sender, EventArgs e)
@@ -293,6 +324,22 @@ namespace Operadora
             btn_RS6.FlatAppearance.BorderColor = Color.Black;
             btn_RS7.FlatAppearance.BorderColor = Color.Black;
             btn_RS8.FlatAppearance.BorderColor = Color.Black;
+            //Cor do Texto
+            lbl_Nome.ForeColor = Color.White;
+            lbl_BemVindo.ForeColor = Color.White;
+            lbl_OperadoraSelecionada.ForeColor = Color.White;
+            lbl_DDD.ForeColor = Color.White;
+            lbl_NumeroCelular.ForeColor = Color.White;
+            lbl_ValorRecarga.ForeColor = Color.White;
+            lbl_SelecioneValor.ForeColor = Color.White;
+            lbl_Validade1.ForeColor = Color.White;
+            lbl_Validade2.ForeColor = Color.White;
+            lbl_Validade3.ForeColor = Color.White;
+            lbl_Validade4.ForeColor = Color.White;
+            lbl_Validade5.ForeColor = Color.White;
+            lbl_Validade6.ForeColor = Color.White;
+            lbl_Validade7.ForeColor = Color.White;
+            lbl_Validade8.ForeColor = Color.White;
         }
 
         private void btn_Tim_CheckedChanged(object sender, EventArgs e)
@@ -382,6 +429,22 @@ namespace Operadora
             btn_RS6.FlatAppearance.BorderColor = Color.RoyalBlue;
             btn_RS7.FlatAppearance.BorderColor = Color.RoyalBlue;
             btn_RS8.FlatAppearance.BorderColor = Color.RoyalBlue;
+            //Cor do Texto
+            lbl_Nome.ForeColor = Color.White;
+            lbl_BemVindo.ForeColor = Color.White;
+            lbl_OperadoraSelecionada.ForeColor = Color.White;
+            lbl_DDD.ForeColor = Color.White;
+            lbl_NumeroCelular.ForeColor = Color.White;
+            lbl_ValorRecarga.ForeColor = Color.White;
+            lbl_SelecioneValor.ForeColor = Color.White;
+            lbl_Validade1.ForeColor = Color.White;
+            lbl_Validade2.ForeColor = Color.White;
+            lbl_Validade3.ForeColor = Color.White;
+            lbl_Validade4.ForeColor = Color.White;
+            lbl_Validade5.ForeColor = Color.White;
+            lbl_Validade6.ForeColor = Color.White;
+            lbl_Validade7.ForeColor = Color.White;
+            lbl_Validade8.ForeColor = Color.White;
         }
 
         private void pic_Logo_Click(object sender, EventArgs e)
