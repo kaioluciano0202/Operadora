@@ -156,6 +156,7 @@
             this.txt_nome.CausesValidation = false;
             this.txt_nome.Enabled = false;
             this.txt_nome.Location = new System.Drawing.Point(365, 85);
+            this.txt_nome.MaxLength = 100;
             this.txt_nome.Name = "txt_nome";
             this.txt_nome.Size = new System.Drawing.Size(272, 20);
             this.txt_nome.TabIndex = 3;
@@ -197,6 +198,7 @@
             // 
             this.txt_DDD.Enabled = false;
             this.txt_DDD.Location = new System.Drawing.Point(366, 204);
+            this.txt_DDD.MaxLength = 2;
             this.txt_DDD.Name = "txt_DDD";
             this.txt_DDD.Size = new System.Drawing.Size(34, 20);
             this.txt_DDD.TabIndex = 8;
