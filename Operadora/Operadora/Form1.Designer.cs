@@ -503,6 +503,7 @@
             this.txt_ValorRecarga.Name = "txt_ValorRecarga";
             this.txt_ValorRecarga.Size = new System.Drawing.Size(132, 20);
             this.txt_ValorRecarga.TabIndex = 33;
+            this.txt_ValorRecarga.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // frm_principal
             // 
